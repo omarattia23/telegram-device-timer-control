@@ -8,4 +8,6 @@
 #define WIFI_LED_PIN D3
 #define MOTOR_PIN D2
 #define DOOR_PIN D1
+#define Group_ID "-829394030"
+#define Owner_ID "5466839345"
 #endif
